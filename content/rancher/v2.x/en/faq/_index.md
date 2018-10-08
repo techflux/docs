@@ -31,7 +31,7 @@ No.  Unfortunately, the differences were enough such that we cannot support Ranc
 
 ### How does Rancher v2.0 affect Cattle?
 
-Cattle will not supported in v2.0 as Rancher has been re-architected to be based on Kubernetes. You can, however, expect majority of Cattle features you use will exist and function similarly on Kubernetes. We will develop migration tools in Rancher v2.1 to help you transform your existing Rancher Compose files into Kubernetes YAML files.
+Cattle is not supported in v2.0 as Rancher has been re-architected to be based on Kubernetes. You can, however, expect majority of Cattle features you use will exist and function similarly on Kubernetes. We will develop migration tools in Rancher v2.1 to help you transform your existing Rancher Compose files into Kubernetes YAML files.
 
 #### Can I migrate existing Cattle workloads into Kubernetes?
 
